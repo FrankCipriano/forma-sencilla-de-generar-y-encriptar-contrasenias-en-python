@@ -1,5 +1,6 @@
+#print('FrankDev')
 import random
-#-IMPORTANDO LA LIBRERIA DEL PAQUETE WERKZEUG PARA GENERAR ENCRIPTAR
+#-IMPORTANDO LA LIBRERIA DEL PAQUETE WERKZEUG PARA ENCRIPTAR
 from werkzeug.security import generate_password_hash
 
 
